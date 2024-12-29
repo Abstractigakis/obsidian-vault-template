@@ -1,20 +1,13 @@
 ---
-week: 2024-35
-aliases: []
-tags: 
-short: 
-best hill run: 
-cold time: 
-exercise:
+week: <% `${moment(tp.file.title).format('WW')}` %>
+aliases:
+tags:
 ---
 
-[[2024-09-19|⬅️ Yesterday]] ↔️ [[Journal/Daily/2024-09-21|Tomorrow ➡️]]
-[[2024-W35|This Week]]
+### Current Week
 
-Today, I will
+Week: [[Journal/Weekly/<% `${moment(tp.file.title).format('YYYY')}` %>-W<% `${moment(tp.file.title).format('WW')}` %>|Week <% `${moment(tp.file.title).format('WW')}` %>]]
 
-- [ ] REPLACEME   
+### Today, I will
 
-#### Script
-
-
+- [ ] REPLACEME

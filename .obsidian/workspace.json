@@ -165,12 +165,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,34 +185,35 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "faf2c3d31ea2cf24",
+  "active": "0108f3bfe00f1eaa",
   "lastOpenFiles": [
-    "rough.canvas",
-    "Journal/Weekly/_template.md",
-    "Journal/History/wild side.md",
-    "Journal/History/unemployment reflection.md",
-    "Journal/History/san marco.md",
-    "Journal/History/saint angela.md",
-    "Journal/History/rogers java developer.md",
-    "Journal/History/kicking the vices September 2022.md",
-    "Journal/History/job search.md",
-    "Journal/History/holy cross experience.md",
-    "Journal/History/fluctuating will power.md",
-    "Journal/History/doctalk interview process.md",
-    "Journal/History/chipoltle.md",
-    "Journal/History/canso intervirew process.md",
-    "Journal/History/biochemistry university.md",
-    "Journal/History/amazon interview process.md",
-    "Journal/History/RBC Archer.md",
-    "Journal/History/Options Handshake.md",
-    "Journal/History/New Year.md",
-    "Journal/History/New Year 1.md",
-    "Journal/History/Multiple Me.md",
-    "Journal/History/Doctalk 2.5 months in 2022.md",
-    "Journal/History/Chrismas 2022.md",
-    "Journal/History/10 Commandments ~ June 2024.md",
-    "Journal/Daily/_template.md",
+    "Journal/Weekly/2024-W51.md",
+    "Journal/Daily/2024-12-16.md",
+    "Journal/Daily/2024-12-17.md",
+    "Journal/Weekly/2024-51.md",
+    "Journal/Weekly/51-51.md",
+    "Journal/Weekly/2024-W52.md",
+    "Journal/Daily/2024-12-22.md",
+    "Journal/Daily/2024-12-18.md",
+    "Journal/Daily/2024-12-30.md",
+    "Journal/Daily/2024-12-29.md",
+    "Journal/Daily/2024-12-28.md",
+    "Journal/Daily/2024-12-27.md",
+    "Journal/Daily/2024-12-26.md",
+    "Journal/Daily/2024-12-25.md",
+    "Journal/Daily/2024-12-24.md",
+    "Journal/Daily/2024-12-23.md",
     "Journal/Daily/DailyODB.md",
+    "Journal/Daily/2024-12-15.md",
+    "Journal/Daily/2024-12-21.md",
+    "Journal/Daily/2024-12-20.md",
+    "Journal/Daily/_template.md",
+    "Journal/Weekly/_template.md",
+    "Journal/Weekly/2025-W02.md",
+    "2024-08-25.md",
+    "2024-W34.md",
+    "Journal/Weekly/2025-W01.md",
+    "rough.canvas",
     "Journal/Weekly",
     "Journal/History",
     "Journal/Daily",

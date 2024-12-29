@@ -1,4 +1,157 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "51-51",
+      "path": "Journal/Weekly/51-51.md"
+    },
+    {
+      "basename": "DailyODB",
+      "path": "Journal/Daily/DailyODB.md"
+    },
+    {
+      "basename": "_template",
+      "path": "Journal/Daily/_template.md"
+    },
+    {
+      "basename": "_template",
+      "path": "Journal/Weekly/_template.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "Personal/Ideas.md"
+    },
+    {
+      "basename": "6. Last Christmas",
+      "path": "Personal/Songs/6. Last Christmas.md"
+    },
+    {
+      "basename": "Uncle Bob",
+      "path": "Uncle Bob.md"
+    },
+    {
+      "basename": "Goals",
+      "path": "Personal/Goals.md"
+    },
+    {
+      "basename": "_Quips",
+      "path": "Personal/_Quips.md"
+    },
+    {
+      "basename": "Principles",
+      "path": "Personal/Principles.md"
+    },
+    {
+      "basename": "5. Love me like an old movie",
+      "path": "Personal/Songs/5. Love me like an old movie.md"
+    },
+    {
+      "basename": "1. Life Song",
+      "path": "Personal/Songs/1. Life Song.md"
+    },
+    {
+      "basename": "2. Fate Advances",
+      "path": "Personal/Songs/2. Fate Advances.md"
+    },
+    {
+      "basename": "Late Bloomer",
+      "path": "Personal/Songs/Late Bloomer.md"
+    },
+    {
+      "basename": "My First Life",
+      "path": "Personal/Songs/My First Life.md"
+    },
+    {
+      "basename": "3. The Collector",
+      "path": "Personal/Songs/3. The Collector.md"
+    },
+    {
+      "basename": "10 Commandments ~ June 2024",
+      "path": "Journal/History/10 Commandments ~ June 2024.md"
+    },
+    {
+      "basename": "New Year",
+      "path": "Journal/History/New Year.md"
+    },
+    {
+      "basename": "New Year 1",
+      "path": "Journal/History/New Year 1.md"
+    },
+    {
+      "basename": "Example Clip Video Ref",
+      "path": "VCMS/_templates/Example Clip Video Ref.md"
+    },
+    {
+      "basename": "Example Source Video Ref",
+      "path": "VCMS/_templates/Example Source Video Ref.md"
+    },
+    {
+      "basename": "_WHY?",
+      "path": "VCMS/_WHY?.md"
+    },
+    {
+      "basename": "Video Editor View",
+      "path": "assets/Video Editor View.png"
+    },
+    {
+      "basename": "Projects View",
+      "path": "assets/Projects View.png"
+    },
+    {
+      "basename": "Lists feature",
+      "path": "assets/Lists feature.png"
+    },
+    {
+      "basename": "Pasted image 20241203114400",
+      "path": "assets/Pasted image 20241203114400.png"
+    },
+    {
+      "basename": "Writers Block",
+      "path": "assets/Writers Block.mp4"
+    },
+    {
+      "basename": "John Mayer SR",
+      "path": "VCMS/John Mayer SR.canvas"
+    },
+    {
+      "basename": "John Mayer Rick Rubin",
+      "path": "VCMS/John Mayer Rick Rubin.canvas"
+    },
+    {
+      "basename": "John Mayer",
+      "path": "VCMS/John Mayer.canvas"
+    },
+    {
+      "basename": "John Mayer Guitar Tips Comp",
+      "path": "VCMS/John Mayer Guitar Tips Comp.canvas"
+    },
+    {
+      "basename": "Eric Schmidt DOACEO",
+      "path": "VCMS/Eric Schmidt DOACEO.canvas"
+    },
+    {
+      "basename": "Charlie Munger",
+      "path": "VCMS/Charlie Munger.canvas"
+    },
+    {
+      "basename": "Charlie Munger Warren Buffet 100 years",
+      "path": "VCMS/Charlie Munger Warren Buffet 100 years.canvas"
+    },
+    {
+      "basename": "No Macros",
+      "path": "assets/No Macros.mp4"
+    },
+    {
+      "basename": "Demented",
+      "path": "assets/Demented.mp4"
+    },
+    {
+      "basename": "Expertise Vs Circle of Competnece",
+      "path": "assets/Expertise Vs Circle of Competnece.mp4"
+    }
+  ],
   "omittedPaths": []
 }

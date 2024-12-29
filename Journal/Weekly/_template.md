@@ -1,40 +1,19 @@
 ---
+week: <% `${moment(tp.file.title).format('WW')}` %>
 aliases: []
-tags: 
+tags:
 ---
 
-# Aug 25 ↔️ Aug 31
+### Daily Notes
 
+- [[Journal/Daily/<% `${moment(tp.file.title).startOf('week').format('YYYY-MM-DD')}` %>|Monday]]
+- [[Journal/Daily/<% `${moment(tp.file.title).startOf('week').add(1, 'days').format('YYYY-MM-DD')}` %>|Tuesday]]
+- [[Journal/Daily/<% `${moment(tp.file.title).startOf('week').add(2, 'days').format('YYYY-MM-DD')}` %>|Wednesday]]
+- [[Journal/Daily/<% `${moment(tp.file.title).startOf('week').add(3, 'days').format('YYYY-MM-DD')}` %>|Thursday]]
+- [[Journal/Daily/<% `${moment(tp.file.title).startOf('week').add(4, 'days').format('YYYY-MM-DD')}` %>|Friday]]
+- [[Journal/Daily/<% `${moment(tp.file.title).startOf('week').add(5, 'days').format('YYYY-MM-DD')}` %>|Saturday]]
+- [[Journal/Daily/<% `${moment(tp.file.title).startOf('week').add(6, 'days').format('YYYY-MM-DD')}` %>|Sunday]]
 
-[[2024-W34|⬅️ Last Week]] ↔️
-[[2024-W36|Next Week ➡️]]
-
-This Week, my focus is
+### This Week, I will
 
 - [ ] REPLACEME
-
-## Weekly Learning
-
-
-
-## Days Of Week
-
-- [[2024-08-25|Sunday]]
-- [[2024-08-26|Monday]]
-- [[2024-08-27|Tuesday]]
-- [[2024-08-28|Wednesday]]
-- [[2024-08-29|Thursday]]
-- [[2024-08-30|Friday]]
-- [[2024-08-31|Saturday]]
-
-## Overview
-
-```dataview
-table without id
-	file.link AS "Day",
-	short AS "⏯️",
-	choice(exercise,"✅","❌") AS "🏋️"
-from "Journal/Daily"
-where week = "2024-W35"
-sort file.name ASC
-```
